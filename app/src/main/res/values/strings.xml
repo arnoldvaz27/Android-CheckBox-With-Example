@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckBox Example</string>
+    <string name="enter_any_text_here_1">Enter any text here 1st Edit text</string>
+    <string name="enter_any_text_here_2">Enter any text here 2nd Edit text</string>
+</resources>
