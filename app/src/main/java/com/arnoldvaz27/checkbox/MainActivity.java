@@ -1,10 +1,12 @@
-package com.example.differentandroidcodes;
+package com.arnoldvaz27.checkbox;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.widget.CheckBox;
+
+import com.arnoldvaz27.checkbox.R;
 
 public class MainActivity extends AppCompatActivity {
 
