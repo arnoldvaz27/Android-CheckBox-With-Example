@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CheckBox Example</string>
+    <string name="none">None</string>
+    <string name="i_m_a_check_box">I\'m A Check Box</string>
 </resources>
